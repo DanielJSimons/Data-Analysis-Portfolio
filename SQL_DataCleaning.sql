@@ -1,3 +1,5 @@
+--During this project I clean and arrange an opensource set of data to be both more efficient and user friendly for further analysis.
+
 select *
 From Portfolio_Project.dbo.NashvilleHousing
 
